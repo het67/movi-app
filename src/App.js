@@ -16,7 +16,7 @@ const MovieReviewApp = () => {
     <div style={{ maxWidth: '600px', margin: 'auto', padding: '20px' }}>
       
       
-    <h1>how are you</h1>
+
       <h2>🎬 Movie Review Form</h2>
       <Formik
         initialValues={{ title: '', review: '', rating: '', recommended: false }}
